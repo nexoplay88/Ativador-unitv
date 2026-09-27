@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizadoEm": "2026-09-22T02:15:51.474Z",
+  "atualizadoEm": "2026-09-27T13:05:00.972Z",
   "senhas": [
     {
       "id": "cliente-mtsuk3v7-7d1qb7",
@@ -21,7 +21,7 @@
       "nome": "Aloncio",
       "senha": "152326",
       "hashSha256": "7eb9f4ba528809690e7158fb3c4ff9ffba6b2e74126e711e02aeb973beb7ca73",
-      "bloqueado": false
+      "bloqueado": true
     },
     {
       "id": "cliente-mtt1xie1-1e8gyoc",
@@ -49,7 +49,7 @@
       "nome": "Lucas",
       "senha": "280872",
       "hashSha256": "a4c6d3afcbb6399c263612989129bed9bcdf35cd149bb841d2ef07ee06d18f36",
-      "bloqueado": true
+      "bloqueado": false
     },
     {
       "id": "cliente-mtt2mlq2-6sw193",
