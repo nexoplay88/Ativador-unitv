@@ -1,0 +1,9 @@
+IMPORTANTE: esta é uma NOVA chave de assinatura.
+Ela NÃO substitui a chave original perdida e NÃO permite atualizar uma instalação assinada pela chave antiga.
+
+Arquivo: ativador-unitv-nova.jks
+Alias: ativadorunitv
+Senha do arquivo: zrNPrn51Rf2VFuZMM8V09y209qL77MCB
+Senha da chave: zrNPrn51Rf2VFuZMM8V09y209qL77MCB
+
+Guarde o arquivo .jks e este arquivo de dados juntos e em local seguro.

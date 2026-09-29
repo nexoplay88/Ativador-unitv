@@ -56,9 +56,9 @@ import java.util.regex.Pattern;
 import java.util.zip.ZipFile;
 
 public final class MainActivity extends Activity {
-    private static final String IDS_JSON_URL = "https://ativadorunitv.github.io/revendedor/ids.json";
-    private static final String UPDATE_JSON_URL = "https://ativadorunitv.github.io/revendedor/ativador/update.json";
-    private static final String UNITV_APK_URL = "https://ativadorunitv.github.io/revendedor/unitv-free/5.8.1.apk";
+    private static final String IDS_JSON_URL = "https://nexoplay88.github.io/Ativador-unitv/ids.json";
+    private static final String UPDATE_JSON_URL = "https://nexoplay88.github.io/Ativador-unitv/ativador/update.json";
+    private static final String UNITV_APK_URL = "https://nexoplay88.github.io/Ativador-unitv/unitv-free/5.8.1.apk";
     private static final String DRIVE_PREFIX = "https://drive.google.com/uc?export=download&id=";
     private static final String ACTIVATION_NAMESPACE = "unitv-activation-v1|U7vF-93aL-2026|";
     private static final int REQUEST_STORAGE = 41;
